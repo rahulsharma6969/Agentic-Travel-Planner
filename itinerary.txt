@@ -3,7 +3,7 @@ From: Hyderabad
 Destination: Vishakhapatnam
 Dates: 2025-07-15 to 2025-07-20
 Budget: ₹15000.0
-Prepared for: Aatif Ahmad
+Prepared for: John Doe
 Flights:
 | Airline | Flight Number | Departure Airport | Arrival Airport | Departure Time | Arrival Time | Price (INR) |
 |---------|---------------|-------------------|-----------------|----------------|--------------|-------------|
