@@ -40,3 +40,17 @@ The framework utilizes a collaborative agent architecture where specific roles a
    ```bash
    git clone [https://github.com/rahulsharma6969/Agentic-Travel-Planner.git](https://github.com/rahulsharma6969/Agentic-Travel-Planner.git)
    cd Agentic-Travel-Planner
+2. **Create a virtual environment (Recommended):**
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows use: venv\Scripts\activate
+3. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
+4. **Environment Variables:**
+   ```bash
+   LLM_API_KEY=your_llm_api_key_here
+   SEARCH_API_KEY=your_search_api_key_here
+5. **Usage:**
+   ```bash
+   python main.py
