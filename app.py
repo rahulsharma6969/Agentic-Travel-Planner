@@ -27,7 +27,7 @@ class TravelPlan(BaseModel):
 
 # Initialize LLM (Google Gemini)
 llm = ChatGoogleGenerativeAI(
-    model="gemini-1.5-flash",
+    model="gemini-2.5-flash",
     temperature=0,
     max_tokens=None,
     timeout=None,
