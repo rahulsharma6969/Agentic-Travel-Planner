@@ -52,7 +52,7 @@ prompt = ChatPromptTemplate.from_messages(
             - **Destination**: {destination}
             - **Dates**: {start_date} to {end_date}
             - **Budget**: ₹{budget}
-            - **Prepared for**: Aatif Ahmad
+            - **Prepared for**: John Doe
             - **Flights**: [JSON array of objects with keys: Airline, Flight Number, Departure Airport, Arrival Airport, Departure Time, Arrival Time, Price (INR)]
             - **Hotels**: [JSON array of objects with keys: Name, Price per Night (INR), Rating]
             - **Attractions**: [Plain list of attraction names separated by newlines]
